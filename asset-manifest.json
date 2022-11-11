@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/reactAppRepo/static/css/main.073c9b0a.css",
+    "main.js": "/reactAppRepo/static/js/main.ea9bcd1b.js",
+    "static/js/787.98651143.chunk.js": "/reactAppRepo/static/js/787.98651143.chunk.js",
+    "static/media/laiba.gif": "/reactAppRepo/static/media/laiba.b07a954b3421be2536d3.gif",
+    "static/media/logo.svg": "/reactAppRepo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reactAppRepo/index.html",
+    "main.073c9b0a.css.map": "/reactAppRepo/static/css/main.073c9b0a.css.map",
+    "main.ea9bcd1b.js.map": "/reactAppRepo/static/js/main.ea9bcd1b.js.map",
+    "787.98651143.chunk.js.map": "/reactAppRepo/static/js/787.98651143.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ea9bcd1b.js"
+  ]
+}
